@@ -34,7 +34,7 @@
 
 ## 📌 Highlight Projects
 
-### 🎯 [InternetVideoDownloader](https://github.com/mrjoeys20/InternetvideoDownloader)
+### 🎯 [InternetVideoDownloader](https://github.com/mhassantahir-afk/InternetvideoDownloader)
 > Tool to download Videos from popular websites like Youtube, Instagram, Facebooak and Reddit. Just Paster the link in the app and see the media download.
 > With eye-catching GUI and storing history via local database.
 > 🛠️ `Tech Stack: Java, JavaFX(GUI), CSS, SQLite`
@@ -45,7 +45,7 @@
 
 ### [AI works Using Python]
 
-⏩ See more in my [Repositories »](https://github.com/mrjoeys20?tab=repositories)
+⏩ See more in my [Repositories »](https://github.com/mhassantahir-afk?tab=repositories)
 
 ---
 
