@@ -46,7 +46,7 @@
 > Final project for my CS50p course. Simple CLI based application that manages Teacher, Student and exam records via usings csv files.  
 > 🛠️ `Tech Stack: Python, CSV files`
 
-### [AI works Using Python]
+### [AI works Using Python](https://github.com/mhassantahir-afk/CS50AI)
 
 ⏩ See more in my [Repositories »](https://github.com/mhassantahir-afk?tab=repositories)
 
