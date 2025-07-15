@@ -42,7 +42,7 @@
 > With eye-catching GUI and storing history via local database.
 > 🛠️ `Tech Stack: Java, JavaFX(GUI), CSS, SQLite`
 
-### 🧠 [Exam Management System]
+### 🧠 [Exam Management System](https://github.com/mhassantahir-afk/Exam-Management-System)
 > Final project for my CS50p course. Simple CLI based application that manages Teacher, Student and exam records via usings csv files.  
 > 🛠️ `Tech Stack: Python, CSV files`
 
