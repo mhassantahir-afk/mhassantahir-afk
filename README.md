@@ -39,6 +39,11 @@
 
 ## 📌 Highlight Projects
 
+### 🎯 [AI Leukemia Classifier](https://github.com/mhassantahir-afk/AI-Leukemia-Classifier)
+> AI model that can Detect Acute Lymphoblastic Leukemia (ALL) from microscopic blood-cell images.
+> Built on Large publicly available blood-cell Datasets.
+> 🛠️ `Tech Stack: Python, Tensorflow, Pandas, Numpy`
+
 ### 🎯 [InternetVideoDownloader](https://github.com/mhassantahir-afk/InternetvideoDownloader)
 > Tool to download Videos from popular websites like Youtube, Instagram, Facebooak and Reddit. Just Paster the link in the app and see the media download.
 > With eye-catching GUI and storing history via local database.
